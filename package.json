@@ -1,0 +1,27 @@
+{
+  "name": "filedb",
+  "version": "1.0.3",
+  "description": "A simple Nodejs file system database for prototyping and learning NoSql database concepts",
+  "main": "db.js",
+  "author": {
+	"name": "ajah chukwuemeka",
+	"url": "https://github.com/chukwuemekaajah"
+  },
+  "engines": {
+	"node": ">=0.10.0"
+  },
+  "_npmUser":{
+    "name":"chukwuemekaajah",
+    "email":"talk2ajah@gmail.com"
+  },	
+  "keywords": [
+	"filedb",
+	"filesystem",
+	"json",
+	"database",
+	"storage",
+	"file",
+	"chukwuemekaajah"
+]
+  
+}
